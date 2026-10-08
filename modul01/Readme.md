@@ -7,7 +7,7 @@
 | **Nama** | Fathir Muhammad Arsy |
 | **NIM** | 108072500036 |
 | **Kelas** | IF-05-04 |
-| **Asisten Praktikum** | Nuevalen Refitra Alswando |
+| **Asisten Praktikum** | Nuevalen Refitra Alswando & Galang|
 | **Tanggal Praktikum** | 10 Oktober 2026 |
 
 ---
